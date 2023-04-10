@@ -1,0 +1,29 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(header.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+h1 {
+  color: white;
+}
+
+.buffer {
+  height: 10rem;
+}
+
+.btn {
+  text-transform: uppercase;
+}
+
+.btn-primary {
+  background-color: bisque;
+}
+
+.btn-xl {
+  padding: 2rem 4em;
+}
+
